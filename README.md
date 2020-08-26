@@ -8,7 +8,7 @@
 
 * 博客： [https://bacde.me](https://bacde.me)
 
-* 组织： Insight-Labs、河马Webshell查杀
+* 组织： Insight-Labs、河马webshell查杀
 
 
 ### About Me
@@ -21,7 +21,7 @@
 
 * Blog: [https://bacde.me](https://bacde.me)
 
-* Organization： Insight-Labs、河马Webshell查杀
+* Organization： Insight-Labs & Shellpub
 
 
 <!--
