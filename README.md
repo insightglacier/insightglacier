@@ -23,6 +23,7 @@
 
 * Organization： Insight-Labs & Shellpub
 
+[![BaCde's github stats](https://github-readme-stats.vercel.app/api?username=insightglacier)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **insightglacier/insightglacier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
