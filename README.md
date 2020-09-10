@@ -1,4 +1,4 @@
-### 关于我(About Me)
+### 关于我 (About Me)
 
 * 自由职业者 (Freelancers)
 
