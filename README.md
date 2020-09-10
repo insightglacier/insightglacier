@@ -1,27 +1,15 @@
-### 关于我
+### 关于我(About Me)
 
-* 自由职业者
+* 自由职业者(Freelancers)
 
-* 非职业作家
+* 非职业作家(Non-professional writer)
 
-* 网站站长：[https://rapiddns.io](https://rapiddns.io)
+* 网站站长(Website)：[https://rapiddns.io](https://rapiddns.io)
 
-* 博客： [https://bacde.me](https://bacde.me)
+* 博客(Blog)： [https://bacde.me](https://bacde.me)
 
-* 组织： Insight-Labs、河马webshell查杀
+* 组织(Organization)： Insight-Labs、河马webshell查杀 (Shellpub)
 
-
-### About Me
-
-* Freelancers
-
-* Non-professional writer
-
-* Website: [https://rapiddns.io](https://rapiddns.io)
-
-* Blog: [https://bacde.me](https://bacde.me)
-
-* Organization： Insight-Labs & Shellpub
 
 [![BaCde's github stats](https://github-readme-stats.vercel.app/api?username=insightglacier)](https://github.com/anuraghazra/github-readme-stats)
 
