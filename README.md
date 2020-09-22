@@ -12,7 +12,6 @@
 * 组织 (Organization)： Insight-Labs、河马webshell查杀 (Shellpub)
 
 </p>
-<script>alert(1)</script>
 
 [![BaCde's github stats](https://github-readme-stats.vercel.app/api?username=insightglacier)](https://github.com/anuraghazra/github-readme-stats)
 
