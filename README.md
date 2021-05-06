@@ -1,7 +1,7 @@
 ### 关于我 (About Me)
 <p>
 
-* 自由职业者 (Freelancers)
+* 自由职业者 (Freelancer)
 
 * 非职业作家 (Non-professional writer)
 
