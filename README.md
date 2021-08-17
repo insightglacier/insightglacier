@@ -15,8 +15,6 @@
 
 </p>
 
-[http://192.168.6.184/](http://192.168.6.184/index.html)
-
 [![BaCde's github stats](https://github-readme-stats.vercel.app/api?username=insightglacier)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
