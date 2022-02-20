@@ -12,6 +12,8 @@
 * 组织 (Organization)： Insight-Labs、河马webshell查杀 (Shellpub)、Tiger Team（TigerEyes）
   
 * 比赛（Game）：TigerEyes团队获得Cyber Apocalypse 2021 ctf比赛全球第15名、geekpwn 2020年优胜奖
+  
+* 会议（Conference）：CNCERT 2018、DTCC 2019、ISC 2021、Defcon 2021 演讲者
 
 </p>
 
