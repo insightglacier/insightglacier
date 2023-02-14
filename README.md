@@ -7,7 +7,7 @@
 
 * 博客 (Blog)： [https://bacde.me](https://bacde.me)
 
-* 组织 (Organization)： Chamd5 H1组、Insight-Labs、河马webshell查杀 (Shellpub)
+* 组织 (Organization)： Chamd5 H1组、Insight-Labs
   
 * 比赛（Game）：geekpwn 2020年优胜奖
   
