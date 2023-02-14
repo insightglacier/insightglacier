@@ -1,19 +1,17 @@
 ### 关于我 (About Me)
 <p>
 
-* 自由职业者 (Freelancer)
-
 * 非职业作家 (Non-professional writer)
 
 * 网站站长 (Website)：[https://rapiddns.io](https://rapiddns.io)
 
 * 博客 (Blog)： [https://bacde.me](https://bacde.me)
 
-* 组织 (Organization)： Insight-Labs、河马webshell查杀 (Shellpub)
+* 组织 (Organization)： Chamd5 H1组、Insight-Labs、河马webshell查杀 (Shellpub)
   
 * 比赛（Game）：geekpwn 2020年优胜奖
   
-* 会议（Conference）：CNCERT 2018、中国物联网大会2018、DTCC 2019、ISC 2021、Defcon 2021 演讲者
+* 会议（Conference）：CNCERT 2018、中国物联网大会2018、DTCC 2019、ISC 2021、Defcon 2021、2022中国架构师大会演讲者
 
 </p>
 
