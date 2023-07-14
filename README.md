@@ -34,5 +34,3 @@ Here are some ideas to get you started:
 [url](https://bacde.me/test.html)
 [url2](https://bacde.me/test2.html)
 [url3](https://bacde.me/test3.html)
-
-[gogogo](https://fulldownload.rapiddns.io/gogogo.html)
