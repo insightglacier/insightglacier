@@ -5,7 +5,7 @@
 
 * 网站站长 (Website)：[https://rapiddns.io](https://rapiddns.io)
 
-* 博客 (Blog)： [https://bacde.me](https://bacde.me)
+* 博客 (Blog)： [https://bacde.me](https://bacde.me) [https://bacde.github.io](https://bacde.github.io)
 
 * 组织 (Organization)： Chamd5 H1组、Insight-Labs
   
