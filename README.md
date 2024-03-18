@@ -15,7 +15,7 @@
 
 * [https://bacde.me/checkjs.html](https://bacde.me/checkjs.html)
 
-* [http://172.31.2.222:8000/1.html](test)
+* [http://172.31.2.222:8000/1.html](http://172.31.2.222:8000/1.html)
 </p>
 
 [![BaCde's github stats](https://github-readme-stats.vercel.app/api?username=insightglacier)](https://github.com/anuraghazra/github-readme-stats)
